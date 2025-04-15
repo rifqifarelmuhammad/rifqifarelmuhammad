@@ -1,9 +1,9 @@
 <h2>Hey there! 👋</h2>
-<p>I'm Rifqi Farel Muhammad, a Computer Science student at University of Indonesia. I have a strong passion for software engineering, particularly in web development. I always push myself to improve my skills and learn new technologies. I have experience in Java, TypeScript, JavaScript, Python, Dart, and Golang, with a strong understanding of object-oriented programming. I have also implemented RESTful APIs, built interactive and responsive websites, built microservices architectures, and optimized the performance of the systems. I have worked on several projects, both on the backend and frontend. Creating high-quality products with efficient solutions and exceptional user experiences is what truly brings me fulfillment.</p>
+<p>I'm Rifqi Farel Muhammad, a Computer Science student at University of Indonesia. I have a strong passion for software engineering, particularly in web development. I always push myself to improve my skills and learn new technologies. I have experience working with various programming languages, frameworks, and tools, with a strong understanding of object-oriented programming. I have also implemented RESTful APIs, built interactive and responsive websites, built microservices architectures, and optimized the performance of the systems. I have worked on several projects, both on the backend and frontend. I strive to write clean, maintainable code and am always eager to receive feedback to grow both technically and professionally. Creating high-quality products with efficient solutions and exceptional user experiences is what truly brings me fulfillment.</p>
 
 <h2>Languages-Frameworks-Tools ⚒️</h2>
 <div>
-<img src="https://skillicons.dev/icons?i=ts,js,java,go,python,dart,html,css,nest,spring,django,next,react,flutter,postgres,mysql,tailwind,redux,docker,gcp,aws,firebase,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,go,cs,rust,kotlin,dart,spring,nest,express,django,net,next,react,flutter,postgres,mysql,tailwind,redux,docker,gcp,aws,firebase,prometheus,grafana,sentry" />
 </div>
 
 <h2>Contact me ✉</h2>
