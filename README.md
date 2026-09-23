@@ -10,14 +10,15 @@
 <h2>Languages-Frameworks-Tools ⚒️</h2>
 <p><strong>Languages</strong></p>
 <div>
-<img height="42" src="https://skillicons.dev/icons?i=go,java,ts,js,python" />
+<img height="42" src="https://skillicons.dev/icons?i=go,java,ts,js,python,php" />
 </div>
 
 <p><strong>Backend</strong></p>
 <div>
-<img height="42" src="https://skillicons.dev/icons?i=django,spring,nest,express" />
+<img height="42" src="https://skillicons.dev/icons?i=django,spring,nest,express,laravel" />
 <img height="30" src="https://img.shields.io/badge/Gin-00ACD7?style=for-the-badge&logo=gin&logoColor=white" />
 <img height="30" src="https://img.shields.io/badge/Gorilla%20Mux-555555?style=for-the-badge&logoColor=white" />
+<img height="30" src="https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=lumen&logoColor=white" />
 </div>
 
 <p><strong>Frontend</strong></p>
