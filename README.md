@@ -1,4 +1,13 @@
 <h2>Hey there! 👋</h2>
+
+<p>
+<a href="https://rifqifarelmuhammad.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1CtbKbG2AFo5qhgp07p5p3Z_vWr0u_dVi/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rifqi-farel-muhammad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rifqifarel222@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+</p>
+
+<p>👉 <strong>Start with my <a href="https://rifqifarelmuhammad.vercel.app" target="_blank">portfolio website</a> and <a href="https://drive.google.com/file/d/1CtbKbG2AFo5qhgp07p5p3Z_vWr0u_dVi/view?usp=sharing" target="_blank">CV</a></strong>: they have my full experience, projects, and publications.</p>
 <p>I'm Rifqi Farel Muhammad, a Software Engineer at Mekari and a Computer Science graduate from the University of Indonesia. I'm a backend-leaning full-stack engineer, currently working primarily with Go and microservices.</p>
 
 <p>My experience includes building and maintaining production systems across 25+ microservices, improving deployment workflows, distributed tracing, CI pipelines, and system reliability. I also have professional experience in frontend and mobile development using technologies such as TypeScript, React, Next.js, Vue.js, and React Native.</p>
@@ -59,19 +68,6 @@
 <img height="30" src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logoColor=white" />
 </div>
 
-<h2>CV 📄</h2>
-<p>
-  You can view my detailed CV <a href="https://drive.google.com/file/d/1CtbKbG2AFo5qhgp07p5p3Z_vWr0u_dVi/view?usp=sharing" target="_blank"><strong>here</strong></a>.
-</p>
-
-<h2>Contact me ✉</h2>
-<a href="https://www.linkedin.com/in/rifqi-farel-muhammad/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-</a>
-<a href="mailto:rifqifarel222@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-  
 <h2>GitHub Statistics ⚙️</h2>
 <p>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifqifarelmuhammad&show_icons=true&include_all_commits=true&count_private=true&theme=algolia"/>
